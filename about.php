@@ -436,7 +436,7 @@ margin-left: 0px;
         </div>
       </div>
       <!-- End Our Service Area  -->
-      <div class="col-lg-12" style="background-color: #f5f4f6;" >
+      <div class="col-lg-12" style="background-color: #f5f4f6; padding:50px" >
         <div class="section-title text-center">
           <!-- <span class="sub-title extra08-color wow" data-splitting>our valus</span> -->
           <h2 class="title wow" style="color: #B72851;" data-splitting> Our Team </h2>
