@@ -8,7 +8,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title> Succeed in your dream Venture with the aid of creative minds at CretMark</title>
      <link rel="canonical" href="https://cretmark.com/about.php">
-  <meta name="description" content=" CretMark is a digital marketing agency with the expertise to deliver top-notch results for your business. We are dedicated to helping businesses thrive in this fast moving world.">
+  <meta name="description" content=" CretMark is a digital marketing About Us with the expertise to deliver top-notch results for your business. We are dedicated to helping businesses thrive in this fast moving world.">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv='cache-control' content='no-cache'>
   <meta http-equiv='expires' content='0'>
@@ -40,11 +40,7 @@
   }
 
   .team {
-    display: flex;
-    justify-content: center;
-    width: auto;
-    text-align: center;
-    flex-wrap: wrap;
+   
   }
 
   .team .team_member {
@@ -138,7 +134,54 @@ margin-left: 0px;
  }
 
     }
+.team_upper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.single_Team{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* width: 200px;
+  height: 200px; */
+  box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.02), 0px 64.8148px 46.8519px rgba(0, 0, 0, 0.0151852), 0px 38.5185px 25.4815px rgba(0, 0, 0, 0.0121481), 0px 20px 13px rgba(0, 0, 0, 0.01), 0px 8.14815px 6.51852px rgba(0, 0, 0, 0.00785185), 0px 1.85185px 3.14815px rgba(0, 0, 0, 0.00481481);
+  padding: 20px;
   
+}
+
+.single_Team >img{
+  width: 200px;
+  height: 200px;
+}
+
+.single_Team >h3 {
+  color: #B72851;
+  font-size: 24px;
+  margin-bottom: 0px;
+}
+
+.team_middle{
+ margin: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.modalVIdeo {
+        width:450px;
+         height:240px;
+    }
+    @media only screen and (max-width: 400px) {
+        .modalVIdeo {
+            width: 321px; 
+        /* width:200px;
+         height:160px; */
+    }
+    .team_middle{
+      flex-direction: column;
+    }
+    }
 </style>
 
 <body>
@@ -169,7 +212,7 @@ margin-left: 0px;
                     <li><a target="_blank" href="service.php" id="a-tag-nav-menu"><b> Services</b> </a></li>
                     <li><a target="_blank" href="client.php" id="a-tag-nav-menu"> <b> Clients</b></a>
                     </li>
-                    <li><a target="_blank" href="about.php" id="activenav" id="a-tag-nav-menu"><b> Agency</b> </a></li>
+                    <li><a target="_blank" href="about.php" id="activenav" id="a-tag-nav-menu"><b> About Us</b> </a></li>
                     <!-- <li><a target="_blank" href="career.php" id="a-tag-nav-menu"> <b> Careers</b> </a></li> -->
 
 
@@ -230,7 +273,7 @@ margin-left: 0px;
             <li class="has-dropdown"><a target="_blank" href="client.php">Clients</a>
 
 </li>
-            <li><a target="_blank" href="about.php">Agency</a></li>
+            <li><a target="_blank" href="about.php">About Us</a></li>
             <li class="has-dropdown"><a target="_blank" href="career.php">Careers </a>
 
             </li>
@@ -261,7 +304,7 @@ margin-left: 0px;
             <div class="col-lg-7 order-2 order-lg-1 mt_md--30 mt_sm--30">
               <div class="inner">
                 <h1 class="title">One of the fastest <br> <span style="color: #B72851;"> growing
-                    agency</span></h1>
+                Agency</span></h1>
                 <p> </p>
               </div>
             </div>
@@ -393,7 +436,7 @@ margin-left: 0px;
         </div>
       </div>
       <!-- End Our Service Area  -->
-      <div class="col-lg-12 " style=" ">
+      <div class="col-lg-12" style="background-color: #f5f4f6;" >
         <div class="section-title text-center">
           <!-- <span class="sub-title extra08-color wow" data-splitting>our valus</span> -->
           <h2 class="title wow" style="color: #B72851;" data-splitting> Our Team </h2>
@@ -404,8 +447,8 @@ margin-left: 0px;
         </div> <br> <br>
         <div class="wrapper">
           <!-- <h1>Our Team</h1> -->
-          <div class="team">
-            <div class="team_member">
+          <div class="team" >
+            <!-- <div class="team_member">
               <div class="team_img">
                 <img class="team-img-pic" src="team/swapnilnew.svg" alt="Team_image">
               </div>
@@ -422,32 +465,7 @@ margin-left: 0px;
                 innovations that revolutionize the Digital Service Industry. He loves a good dose of vitamin sea..</p>
             </div>
 
-            <!-- <div class="team_member">
-                <div class="team_img">
-                  <img  class="team-img-pic"    src="team/sufinew.svg" alt="Team_image">
-                </div>
-                <h3>Sufi  </h3>
-                <p class="role">Client Partner Singapore</p>
-                <ul class="social-icons">
-                  <a target="_blank" href=""> <img style="width: 48px; height:48px ;" id= "nooblinkedin" src="logo/linkedin 1.png"   alt=""></a>
-                
-                </ul>
-                <p>Sufi is Jack of many trades and master of marketing. She has extensive experience in marketing projects including travel, timeshare, lifestyle services, health & beauty products, and education in Singapore and India. She has an entrepreneurial spirit and is truly a people s person. She believes all problems come with a solution. Her experience is quite "hands-on" and she believes in delivering exceptional results!</p>
-              </div> -->
-            <!--             
-              <div class="team_member">
-                <div class="team_img">
-                  <img  class="team-img-pic"    src="team/anveshnew.svg" alt="Team_image">
-                </div>
-                <h3>Anwesh  </h3>
-                <p class="role">Client Partner Illisnois, USA</p>
-                <ul class="social-icons">
-                  
-                  <a target="_blank" href=""> <img style="width: 48px; height:48px ;" id= "nooblinkedin" src="logo/linkedin 1.png"   alt=""></a>
-                
-                </ul>
-                <p>As a Client Partner for the USA region, Anwesh is responsible for ensuring that service level agreements are met. He makes sure that quality and performance standards are being achieved on time and as per the budget requirements. He is also responsible to manage day-to-day operations and communications with partners and internal departments to ensure smooth project delivery.</p>
-              </div> -->
+           
             <div class="team_member">
               <div class="team_img">
                 <img class="team-img-pic" src="team/meetnew.svg" alt="Team_image">
@@ -513,22 +531,7 @@ margin-left: 0px;
                 to light. He is highly skilled in user research, prototyping, visualization, testing, analyzing, and
                 communicating.</p>
             </div>
-            <!-- <div class="team_member">
-              <div class="team_img">
-                <img class="team-img-pic" src="team/meghnanew.svg" alt="Team_image">
-              </div>
-              <h3>Meghana </h3>
-              <p class="role">Content Writer</p>
-              <ul class="social-icons">
-                <a target="_blank" href="https://www.linkedin.com/in/meghana-prasad-a267b8112"> <img
-                    style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
-
-              </ul>
-              <p>Meghana is a versatile Content Writer proficient in researching, writing and editing diverse content.
-                She works with minimal input to produce engaging, authoritative work. She is highly skilled at blogging,
-                copywriting and website content creation. She utilizes exceptional writing, editing and proofreading
-                skills to produce and engaging, and unique content.</p>
-            </div> -->
+           
             <div class="team_member">
               <div class="team_img">
                 <img class="team-img-pic" src="team/komal.svg" alt="Team_image">
@@ -585,25 +588,66 @@ margin-left: 0px;
 
               </ul>
               <p>Arpita  is an  graphic designer  and she pursuing her last year at Bachelor in Multimedia. Being a multimedia student, She  handle different aspects like designing, motion graphics, and video editing. She love traveling, photography, and sketching amazing sceneries. Overall you can find her  as a keen observer for aesthetics and details, with proper color scheme knowledge, good communication skills with various innovative ideas.</p>
-            </div>
-            
-       
-            <!-- <div class="team_member">
-              <div class="team_img">
-                <img class="team-img-pic" src="team/mahavir.svg" alt="Team_image">
-              </div>
-              <h3>Mahavir </h3>
-              <p class="role">social media market specialist</p>
-              <ul class="social-icons">
-                <a target="_blank" href="https://www.linkedin.com/in/"> <img style="width: 48px; height:48px ;"
-                    id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
-
-              </ul>
-              <p>Mahavir is a social media market specialist and is extremely passionate about his work. He has
-                excellent knowledge in the field of social media. He is a hard-worker with great interpersonal,
-                presentation and communication skills. He is currently pursuing his B.com in advertising and he quotes
-                “Every industry works with digital, but the one that stands out is a digital”.</p>
             </div> -->
+            
+        
+            <div class="team_upper">
+                <div class="single_Team">
+          <img src="team/swapnilnew.svg" alt="">
+
+          <h3>Swapnil  Shinde</h3>
+          <p> Managing Director</p>
+          <a target="_blank" href="https://www.linkedin.com/in/swapnil-shinde-cretmark/"> <img
+                    style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
+                </div>
+            </div>
+            <div class="team_middle">
+
+            <div class="single_Team">
+          <img src="team/anveshnew.svg" alt="">
+
+          <h3>Anwesh Joshi</h3>
+          <p> Client Partner USA</p>
+          <a target="_blank" href="https://www.linkedin.com/in/"> <img
+                    style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
+                </div>
+
+                
+
+
+
+
+                <video class="modalVIdeo"   muted   autoplay   loop  >
+                                <source src="./modalvideo.mp4" type="video/mp4"> 
+
+                                    </video>
+
+
+
+
+                  
+                  <div class="single_Team">
+          <img src="team/sufi.svg" alt="">
+
+          <h3>Sufi Sayed</h3>
+          <p> Client Partner Singapore</p>
+          <a target="_blank" href="https://www.linkedin.com/in/swapnil-shinde-cretmark/"> <img
+                    style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
+                </div>
+            </div>
+            <div class="team_upper">
+
+            <div class="single_Team">
+          <img src="team/suryasen.svg" alt="">
+
+          <h3>Manish Devadiga</h3>
+          <p> Investor & Chief Advisor</p>
+          <a target="_blank" href="https://www.linkedin.com/in/manish-devadiga-0a188171"> <img
+                    style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>    
+        </div>
+            </div>
+
+
           </div>
         </div>
 
