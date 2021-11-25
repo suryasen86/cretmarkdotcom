@@ -631,7 +631,7 @@ margin-left: 0px;
 
           <h3>Sufi Sayed</h3>
           <p> Client Partner Singapore</p>
-          <a target="_blank" href="https://www.linkedin.com/in/swapnil-shinde-cretmark/"> <img
+          <a target="_blank" href="https://www.linkedin.com/in/sufisayed/"> <img
                     style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
                 </div>
             </div>
