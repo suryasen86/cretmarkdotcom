@@ -608,7 +608,7 @@ margin-left: 0px;
 
           <h3>Anwesh Joshi</h3>
           <p> Client Partner USA</p>
-          <a target="_blank" href="https://www.linkedin.com/in/"> <img
+          <a target="_blank" href="http://linkedin.com/in/joshi-anwesh-a768b518"> <img
                     style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
                 </div>
 
