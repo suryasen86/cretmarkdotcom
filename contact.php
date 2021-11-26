@@ -348,6 +348,9 @@ margin-left: 30px;
 margin-left: 0px;
     
  }
+ .ax-section-gap {
+    padding:  0px;
+}
 
     }
   
@@ -460,7 +463,7 @@ margin-left: 0px;
     </div>
     <!-- End Popup Mobile Menu -->
     <!-- Start Breadcrumb Area -->
-    <div class="axil-breadcrumb-area breadcrumb-style-default pt--170 pb--70 theme-gradient">
+    <div class="axil-breadcrumb-area breadcrumb-style-default pt--170  theme-gradient">
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
