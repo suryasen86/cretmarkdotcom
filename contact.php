@@ -626,7 +626,7 @@ margin-left: 0px;
                 </div>
                 <div class="content" id="map-contant">
                   <h4 class="title" style="color:#B72851">Canada-HQ</h4>
-                  <p>Cretmark Business Solutions Inc.
+                  <p> 
 401-55 York Street Toronto, <br> Ontario Canada M5J 1R7
 Toronto, ON M5J 1R7
 Canada
