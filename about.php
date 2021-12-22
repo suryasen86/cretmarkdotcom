@@ -197,7 +197,7 @@ margin-left: 0px;
               <div class="logo">
                 <a target="_blank" href="index.php">
                   <img id="logoimg" src="logo/New Logo Cretmark.svg" alt="">
-                  <img id="candedaimg"  src="./images/1200px-Flag_of_Canada.svg.png" alt=""> 
+                   
                 </a>
 
               </div>
@@ -547,12 +547,23 @@ margin-left: 0px;
                 
 
 
+                <div class="single_Team">
+          <img src="team/dinesh.svg" alt="">
 
+          <h3>Dinesh Khatri</h3>
+          <p> Business Head South East Asia</p>
+          <a target="_blank" href="http://www.linkedin.com/in/dinesh-khatri-341896159"> <img
+                    style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
+                </div>
 
-                <video class="modalVIdeo"   muted   autoplay   loop  >
-                                <source src="./modalvideo.mp4" type="video/mp4"> 
+                <div class="single_Team">
+          <img src="team/bonny.svg" alt="">
 
-                                    </video>
+          <h3>Bonny Carvalho </h3>
+          <p> Client Partner South East Asia</p>
+          <a target="_blank" href="https://www.linkedin.com/in/bonny-carvalho-3392414a/"> <img
+                    style="width: 48px; height:48px ;" id="nooblinkedin" src="logo/linkedin 1.png" alt=""></a>
+                </div>
 
 
 

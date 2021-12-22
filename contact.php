@@ -368,7 +368,7 @@ margin-left: 0px;
               <div class="logo">
                 <a target="_blank" href="index.php">
                   <img id="logoimg" src="logo/New Logo Cretmark.svg" alt="">
-                  <img id="candedaimg"  src="./images/1200px-Flag_of_Canada.svg.png" alt=""> 
+                   
                 </a>
 
               </div>
@@ -619,10 +619,10 @@ margin-left: 0px;
           <div class="row mt--30">
 
             <!-- Start Single Location  -->
-            <div class="col-lg-12 col-md-6 col-sm-6 col-12">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
               <div class="axil-office-location mt--30 wow move-up">
                 <div class="thumbnail" id="map-contant">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.127120545769!2d-79.38474378456314!3d43.64552347912151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d372a06b39%3A0x7da73ae65b447040!2sYork%20St%2C%20Toronto%2C%20ON%2C%20Canada!5e0!3m2!1sen!2sin!4v1637310508082!5m2!1sen!2sin" width="900" height="280" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.127120545769!2d-79.38474378456314!3d43.64552347912151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d372a06b39%3A0x7da73ae65b447040!2sYork%20St%2C%20Toronto%2C%20ON%2C%20Canada!5e0!3m2!1sen!2sin!4v1637310508082!5m2!1sen!2sin" width="300" height="280" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                 </div>
                 <div class="content" id="map-contant">
                   <h4 class="title" style="color:#B72851">Canada-HQ</h4>
@@ -639,6 +639,44 @@ Canada
               </div>
             </div>
             <!-- End Single Location  -->
+                        <!-- Start Single Location  -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+              <div class="axil-office-location mt--30 wow move-up">
+                <div class="thumbnail" id="map-contant">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30145.17876638827!2d72.80519482357815!3d19.188765669478027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b6914fe3a8e5%3A0x73f264109c4db9d4!2sMalad%2C%20Malad%20West%2C%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1621001450988!5m2!1sen!2sin" width="300" height="280" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+                <div class="content" id="map-contant">
+                  <h4 class="title" style="color:#B72851">Mumbai-HQ</h4>
+                  <p>307, Chincholi Bunder Rd, Malad, Rajan Pada ,<br> Mindspace, Mumbai, Maharashtra 400064
+                  <br> <br> <br>
+                  </p>
+
+                  <p> <i class="fas fa-phone"></i><a class="axil-link noob3" style="color:#B72851" target="_blank" href="tel:+919136193111">(+91) 913-619-3111 </a></p>
+                  <!-- <a class="noobi" target="_blank" href=""> <img src="/logo/whatsapp.png" alt=""> </a> -->
+                  <!-- <a  class="noobi" target="_blank" href=""> <img src="https://img.icons8.com/fluent/48/000000/ringer-volume.png"/> </a> -->
+                </div>
+              </div>
+            </div>
+            <!-- End Single Location  -->
+
+                        <!-- Start Single Location  -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+              <div class="axil-office-location mt--30 wow move-up">
+                <div class="thumbnail" id="map-contant">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.127120545769!2d-79.38474378456314!3d43.64552347912151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d372a06b39%3A0x7da73ae65b447040!2sYork%20St%2C%20Toronto%2C%20ON%2C%20Canada!5e0!3m2!1sen!2sin!4v1637310508082!5m2!1sen!2sin" width="300" height="280" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+                <div class="content" id="map-contant">
+                  <h4 class="title" style="color:#B72851">Singapore-HQ</h4>
+                  <p>BLK 531A Upper Cross Street, <br>  #04-95 Hong Lim Complex Singapore 051531   <br> <br> <br>      </p>
+
+                  <p> <i class="fas fa-phone"></i><a class="axil-link noob3" style="color:#B72851" target="_blank" href="tel:+6588851130">(+65) 8885 1130</a></p>
+                  <!-- <a class="noobi" target="_blank" href=""> <img src="/logo/whatsapp.png" alt=""> </a> -->
+                  <!-- <a  class="noobi" target="_blank" href=""> <img src="https://img.icons8.com/fluent/48/000000/ringer-volume.png"/> </a> -->
+                </div>
+              </div>
+            </div>
+            <!-- End Single Location  -->
+
 
 
 
